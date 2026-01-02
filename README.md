@@ -27,3 +27,15 @@ parameter sets. Then a narrower sweep of
 1,000 simulations was performed focused on
 the most promising region to isolate the best
 parameter combinations.
+
+Comparing runs with active versus suppressed MIPS suggests that motility
+induced phase separation plays a critical role in successful payload delivery.
+Vicsek alignment by itself can deliver the payload, but it does so by a
+stochastic clustering. When MIPS works together with weak chemotactic signals
+the agents form polarized flocs almost immediately, yielding higher success
+rates and shorter completion times.
+Moderate noise was observed to be necessary for Vicsek alignment and MIPS,
+yet at the same time noise had critical boundaries which once surpassed
+generated instability and did not allow for flocking, resembling an isotropic
+gas. The effective set of parameters contains a narrow, noise dependent
+“sweet-spot” where Vicsek alignment, MIPS and chemotaxis act effectively
