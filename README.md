@@ -54,7 +54,7 @@ gas. The effective set of parameters contains a narrow, noise dependent
 “sweet-spot” where Vicsek alignment, MIPS and chemotaxis act effectively
 
 <p align="center">
-  <a href="#top">
-    <img src="assets/back-arrow.svg" alt="back" width="32">
+  <a href="https://eliasreyess.github.io/eliasreyess.porfolio.io/">
+    <img src="assets/download.svg" alt="back" width="32">
   </a>
 </p>
