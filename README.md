@@ -35,6 +35,12 @@ the most promising region to isolate the best
 parameter combinations.
 
 
+<p align="center">
+  <img src="assets/polarized.png" alt="simulation1" width="500" style="margin-rigth: 30 px;">
+  <img src="assets/notpolarized.png" alt="simulation2" width="500" style="margin-rigth: 30 px;">
+</p>
+
+
 Comparing runs with active versus suppressed MIPS suggests that motility
 induced phase separation plays a critical role in successful payload delivery.
 Vicsek alignment by itself can deliver the payload, but it does so by a
