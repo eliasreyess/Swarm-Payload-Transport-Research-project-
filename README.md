@@ -1,5 +1,5 @@
 # Swarm-Payload-Transport-Research-project-
-![GUI](modelss.png)
+![GUI](gui.png)
 
 This project presents an agent-based model that investigates collective payload transport in a toroidal arena. Each Agent follows a Vicsek alignment rule augmented by weak chemotactic signals emitted by payload and target. Motility-induced phase separation emerges as the driving mechanism.
 The model is designed as a 20 × 20 patch
@@ -15,6 +15,10 @@ Agents are initially placed at random and
 respond to user defined inputs (interaction
 radius, speed, and noise, etc).
 
+<p align="center">
+  <img src="assets/giphy.gif" alt="simulation">
+</p>
+
 Each run assigns obstacles, the payload, and
 the target locations. The payload and target
 emit a weak chemotactic signal that slightly
@@ -29,6 +33,7 @@ parameter sets. Then a narrower sweep of
 1,000 simulations was performed focused on
 the most promising region to isolate the best
 parameter combinations.
+
 
 Comparing runs with active versus suppressed MIPS suggests that motility
 induced phase separation plays a critical role in successful payload delivery.
